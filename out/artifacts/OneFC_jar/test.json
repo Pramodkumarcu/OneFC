@@ -1,0 +1,36 @@
+[ {
+  "person_id" : "1",
+  "datetime" : "10/1/15 8:02",
+  "floor_level" : 6,
+  "building" : "B"
+}, {
+  "person_id" : "2",
+  "datetime" : "10/1/15 8:02",
+  "floor_level" : 5,
+  "building" : "C"
+}, {
+  "person_id" : "3",
+  "datetime" : "10/1/15 8:03",
+  "floor_level" : 1,
+  "building" : "C"
+}, {
+  "person_id" : "4",
+  "datetime" : "10/1/15 8:04",
+  "floor_level" : 9,
+  "building" : "A"
+}, {
+  "person_id" : "5",
+  "datetime" : "10/1/15 8:04",
+  "floor_level" : 6,
+  "building" : "B"
+}, {
+  "person_id" : "72",
+  "datetime" : "12/31/15 23:24",
+  "floor_level" : 1,
+  "building" : "C"
+}, {
+  "person_id" : "72",
+  "datetime" : "12/31/15 23:26",
+  "floor_level" : 10,
+  "building" : "B"
+} ]
