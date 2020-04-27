@@ -1,5 +1,7 @@
 # OneFC
-# One Parser Code 
+# OneFC Parser Code 
+
+## Steps to execute the Code
 
 1. Change the directory
   i.e cd ./out/artifacts/OneFC_jar
